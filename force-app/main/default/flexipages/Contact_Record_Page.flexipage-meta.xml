@@ -47,6 +47,12 @@
                 <identifier>c_lch_validateContactEmail</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>lch_validateContactEmail</componentName>
+                <identifier>c_lch_validateContactEmail2</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>sidebar</name>
         <type>Region</type>
     </flexiPageRegions>
